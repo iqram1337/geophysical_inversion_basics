@@ -4,4 +4,5 @@
   2. Prof. Dr. Hendra Grandis
 
 
-![random](https://github.com/iqram1337/geophysical_inversion/assets/70354749/be481435-f032-40ba-9810-8d3d3b9f3c01)
+![gravity_nonlinear](https://github.com/iqram1337/geophysical_inversion_basics/assets/70354749/1d16eab6-3489-4be7-814f-c8fcf4275387)
+
